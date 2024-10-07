@@ -1,44 +1,9 @@
+# ASTR4004_U7392929 ASSIGNMENT3
 
+## Task 2 - Gaia DR3 and 2MASS Crossmatch
 
-# ASTR4004_U7392929
-
-# README #
-
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
-Footer
-© 2024 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-
-# astrocomputing course#
-
-This README would normally document whatever steps are necessary to get your application up and running.
-
+This task involves querying data from Gaia DR3,
+performing crossmatches with the 2MASS catalog, 
+applying photometry quality cuts, 
+and generating color-magnitude diagrams for analysis of stars near Messier 67.
 
