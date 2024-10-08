@@ -26,12 +26,8 @@ WHERE 1=CONTAINS(
     CIRCLE('ICRS', 132.825, 11.8, 1))
 AND gaia.phot_g_mean_mag < 14
 ORDER BY gaia.source_id ASC;
-Results
-Number of stars returned from the initial query: 1018
-Number of stars with bad 2MASS photometry (ph_qual not 'AAA'): 21
-Number of stars with non-positive parallaxes: 2
-Number of stars remaining after applying quality cuts: 988
 ```
+
 ## Results
 
 - **Number of stars returned from the initial query:** 1018
